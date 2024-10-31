@@ -4,7 +4,7 @@ This repository contains data about GitHub users in Boston with over 100 followe
 
 ## Files
 
-1. `users.csv`: Contains information about 471 GitHub users in Delhi with over 100 followers
+1. `users.csv`: Contains information about 471 GitHub users in Boston with over 100 followers
 2. `repositories.csv`: Contains information about 42747 public repositories from these users
 3. `gitscrap.py`: Python script used to collect this data
 
